@@ -2,11 +2,11 @@
 
 
 a = Analysis(
-    ['pak_explorer.py'],
+    ['OmniPakSearcher.py'],
     pathex=[],
     binaries=[],
-    datas=[('loading_music.mp3', '.'), ('MorphinTime.mp3', '.'), ('MorphinTime2.mp3', '.')],
-    hiddenimports=['pygame', 'ttkbootstrap'],
+    datas=[('MorphinTime.mp3', '.'), ('MorphinTime2.mp3', '.'), ('loading_music.mp3', '.')],
+    hiddenimports=[],
     hookspath=[],
     hooksconfig={},
     runtime_hooks=[],
