@@ -4,7 +4,7 @@
 Unleash the power of *Kingdom Come: Deliverance II* modding with **Omni Pak Searcher**, a sleek, user-friendly tool to explore and extract `.pak` files! Whether you’re a modder or just curious, this app lets you search inside `.pak` files (which are ZIP-based) for specific assets, extract entire archives, or selectively pull matching files while preserving their directory structure. Perfect for digging into KCD2’s `.pak` files and more!
 
 ## Key Features
-- ** Added Regex**
+- **Added Regex**
 - **Dual Browsing**: Pick a single `.pak` file or an entire folder of `.pak` files for searching and extraction.
 - **Smart Search**: Search for files by name or pattern, with results displayed instantly—then extract only the matches you want!
 - **Mega Scan**: Search inside XML files within `.pak` archives for your specified keywords and extract the matching XML files.
